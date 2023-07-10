@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" >
+<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" style="text-align:center">
 
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
