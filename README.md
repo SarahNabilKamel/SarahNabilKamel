@@ -1,4 +1,4 @@
-<div style="text-align: center !important;" >
+<div style="text-align: center !important; background-color: white;" >
  <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif"/>
  
 </div>
