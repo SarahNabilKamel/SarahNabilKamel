@@ -17,6 +17,7 @@ Outside of my studies, I enjoy reading books. I love learning languages and expe
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
 
 <h2>Languages and Tools</h2>
+<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/sylvester.gif">
 
 <ul>
   <li>HTML, CSS, Javascript</li>
