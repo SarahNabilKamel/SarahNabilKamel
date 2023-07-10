@@ -1,5 +1,5 @@
 <div style="text-align: center !important; background-color: white; max-width:100%" >
- <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" style="max-width:100%; display: inline-block;"/>
+ <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" style="max-width:100%; display: inline-block ;text-align: center !important;"/>
  
 </div>
 
