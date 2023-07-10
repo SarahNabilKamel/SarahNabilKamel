@@ -1,4 +1,5 @@
-<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" alt="Chrome Dino" style="max-width: 100; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" alt="Chrome Dino" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
 
