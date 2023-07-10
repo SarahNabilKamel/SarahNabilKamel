@@ -3,6 +3,7 @@
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
 
 <h2 align="left"> About ME </h2>
+<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat%202.gif">
 <p>I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning.
 <br><br>
 Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.</p>
@@ -14,4 +15,12 @@ Outside of my studies, I enjoy reading books. I love learning languages and expe
 - 📫 How to reach me **Sarah.Nabil.Kamel@gmail**
   
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
+
+<h3>Languages and Tools</h3>
+- HTML, CSS, Javascript
+- C, C++, Python
+- Linux Ubuntu, Git
+
+
+
 
