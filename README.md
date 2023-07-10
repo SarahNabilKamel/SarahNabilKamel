@@ -1,6 +1,6 @@
 <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" >
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
-<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
+<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
 
 <h2 align="left"> About ME </h2>
 <p>I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning.
