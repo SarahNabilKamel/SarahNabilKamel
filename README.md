@@ -1,6 +1,4 @@
- <div style="text-align: center;">
-         <img width="400" src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif">
-      </div>
+ <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif">   
 
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
