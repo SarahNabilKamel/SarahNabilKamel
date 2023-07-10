@@ -1,4 +1,4 @@
-<div style="text-align:center;" >
+<div style="text-align: center" >
  <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif"/>
  
 </div>
