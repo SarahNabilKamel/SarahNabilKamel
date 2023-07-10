@@ -3,7 +3,7 @@
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
 
 <h2 align="left"> About ME </h2>
-**I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning. Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.**
+<b>I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning. Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.</b>
 
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
 
