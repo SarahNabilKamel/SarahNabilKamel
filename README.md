@@ -1,5 +1,5 @@
-<div style="justify-content:center;">
-<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" style="text-align:center">
+<div style="width:100%; background-img:url('https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif') >
+
 </div>
 
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
