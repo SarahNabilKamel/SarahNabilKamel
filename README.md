@@ -1,7 +1,4 @@
-<div style="text-align: center !important; background-color: white; max-width:100%" >
- <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif" style="max-width:100%; display: inline-block ;text-align: center !important;"/>
- 
-</div>
+<img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/raw/main/Effects/Dino.gif" alt="Chrome Dino" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
