@@ -17,9 +17,13 @@ Outside of my studies, I enjoy reading books. I love learning languages and expe
 <img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
 
 <h3>Languages and Tools</h3>
-- HTML, CSS, Javascript
-- C, C++, Python
-- Linux Ubuntu, Git
+
+<ul>
+  <li>- HTML, CSS, Javascript</li>
+  <li>- C, C++, Python</li>
+  <li>- Linux Ubuntu, Git</li>
+</ul>
+
 
 
 
