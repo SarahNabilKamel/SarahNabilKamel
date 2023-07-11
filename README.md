@@ -14,7 +14,7 @@ I am a third-level Computer Science student I have a passion for Linux and open-
 Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/sylvester.gif' width='100"'></a>
+<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/sylvester.gif' width='60"'></a>
 
 ---
 
