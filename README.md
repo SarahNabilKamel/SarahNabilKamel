@@ -1,4 +1,4 @@
-![Chrome Dino](https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif)
+<a href="https://github.com/ٍSarahNabilKamel"><img align='center' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif' width='100%'></a>
 
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sarah-nabil-kamel/" target="_blank" rel="noopener noreferrer">Sarah Kamel</a> <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Hi.gif" height="30" />
