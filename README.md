@@ -1,32 +1,29 @@
-![cat](https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif)
 
-<h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
+![Chrome Dino](https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif)
 
-<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif" >
 
-<b>About ME <b>
-<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat%202.gif">
-<p>I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning.
-<br><br>
-Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.</p>
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sarah-nabil-kamel/" target="_blank" rel="noopener noreferrer">Sarah Kamel</a> <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Hi.gif" height="30" />
+<img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif"> 
 
-<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
+<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat%202.gif' width='150"'></a>
 
-- 🌱 I’m currently learning **Full-Stack Web Development , ALX Software Engineering , Ubuntu**
 
-- 📫 How to reach me **Sarah.Nabil.Kamel@gmail**
-  
-<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
+### About Me
+I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning.
 
-<h2>Languages and Tools</h2>
-<img scr="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/sylvester.gif">
+Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.
 
-<ul>
-  <li>HTML, CSS, Javascript</li>
-  <li>C, C++, Python</li>
-  <li>Linux Ubuntu, Git</li>
-</ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/sylvester.gif' width='150"'></a>
 
+---
+
+### Languages and Tools 
+- HTML, CSS, Javascript
+- C, C++, Python
+- Linux, Git
+<br/>
+ <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
 
 
 
