@@ -1,4 +1,4 @@
-![Chrome Dino](https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif)
+![cat](https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat.gif)
 
 <h1 align="left">Hi 👋, I'm Sarah Kamel</h1>
 
