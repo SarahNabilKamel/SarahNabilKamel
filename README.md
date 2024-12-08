@@ -8,7 +8,7 @@
 
 
 ### About Me
-I am a third-level Computer Science student I have a passion for Linux and open-source software, especially Ubuntu. I love Full-Stack web development and building web applications. I am also interested in Artificial Intelligence and machine learning.
+I graduated from the Computer Science Department of the Faculty of Computers and Information in Luxor and now I am a student at the ITI Institute to study Artificial Intelligence I have a passion for Linux and open-source software, especially Ubuntu. I interested in Full-Stack web development and building web applications.
 
 Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.
 
