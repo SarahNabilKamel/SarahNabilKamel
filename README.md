@@ -6,7 +6,7 @@
 
 
 ### About Me
-Hi, I'm Sarah Kamel Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
+Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
 
 Experienced in building end-to-end AI-powered systems, including RAG pipelines, multi-agent architectures, recommendation systems, and computer vision models. Skilled in Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Docker, AWS, and Linux.
 
@@ -21,9 +21,46 @@ Outside of my studies, I enjoy reading books. I love learning languages and expe
 
 ---
 
-### Languages and Tools 
-- HTML, CSS, Javascript
-- C, C++, Python
-- Linux, Git
+### Tools :
+
+🧠 AI & Machine Learning
+
+Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+
+🤖 Generative AI & NLP
+
+Transformers, HuggingFace, LangChain, RAG, LLMs, spaCy, NLTK, Gensim, Prompt Engineering
+
+👁️ Computer Vision
+
+OpenCV, YOLO, U-Net, Image Segmentation, Object Detection
+
+🧩 Agentic & AI Systems
+
+CrewAI, LangGraph, LangChain, Multi-Agent Systems
+
+🌐 Backend & APIs
+
+FastAPI, Flask, REST APIs, Authentication, MVC Architecture 
+
+💾 Databases & Big Data
+
+MySQL, PostgreSQL, MongoDB, PySpark
+
+⚙️ DevOps & Deployment
+
+Docker, Git, GitHub, AWS, MLflow, Linux
+
+🔄 Automation
+
+Selenium, UiPath, n8n, Scripting
+
+🖥️ Web
+
+PHP, HTML, CSS, JavaScript, Bootstrap
+
+📊 Visualization
+
+Matplotlib, Seaborn, Plotly, Streamlit, Dash, Power BI
 <br/>
  <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
