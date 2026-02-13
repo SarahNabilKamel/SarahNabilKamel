@@ -17,50 +17,39 @@ Passionate about open-source technologies and Linux ecosystems, and continuously
 Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/sylvester.gif' width='35%'></a>
 
 ---
 
 ### Tools :
 
-🧠 AI & Machine Learning
-
+🧠 AI & Machine Learning :
 Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, Feature Engineering, Model Evaluation, Hyperparameter Tuning
 
-🤖 Generative AI & NLP
-
+🤖 Generative AI & NLP :
 Transformers, HuggingFace, LangChain, RAG, LLMs, spaCy, NLTK, Gensim, Prompt Engineering
 
-👁️ Computer Vision
-
+👁️ Computer Vision:
 OpenCV, YOLO, U-Net, Image Segmentation, Object Detection
 
-🧩 Agentic & AI Systems
-
+🧩 Agentic & AI Systems:
 CrewAI, LangGraph, LangChain, Multi-Agent Systems
 
-🌐 Backend & APIs
-
+🌐 Backend & APIs:
 FastAPI, Flask, REST APIs, Authentication, MVC Architecture 
 
-💾 Databases & Big Data
-
+💾 Databases & Big Data:
 MySQL, PostgreSQL, MongoDB, PySpark
 
-⚙️ DevOps & Deployment
-
+⚙️ DevOps & Deployment:
 Docker, Git, GitHub, AWS, MLflow, Linux
 
-🔄 Automation
-
+🔄 Automation:
 Selenium, UiPath, n8n, Scripting
 
-🖥️ Web
-
+🖥️ Web:
 PHP, HTML, CSS, JavaScript, Bootstrap
 
-📊 Visualization
-
+📊 Visualization:
 Matplotlib, Seaborn, Plotly, Streamlit, Dash, Power BI
 <br/>
  <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
