@@ -8,15 +8,13 @@
 
 
 ### About Me
-Hi, I'm Sarah Nabil Kamel I graduated from the Computer Science Department of the Faculty of Computers and Information in Luxor and now I am a student at the ITI Institute to study Artificial Intelligence I have a passion for open-source technologies, web development, and artificial intelligence. Some of my areas of interest and expertise include:
+Hi, I'm Sarah Kamel Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
 
-• Linux and Ubuntu - I have been an avid Linux and Ubuntu user for 3 months and I'm a beginner now I am learning it more deeply and extensively. I love the open-source philosophy, customizability, and security that Linux provides. Ubuntu is my preferred distribution for its ease of use and large community support.
+Experienced in building end-to-end AI-powered systems, including RAG pipelines, multi-agent architectures, recommendation systems, and computer vision models. Skilled in Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Docker, AWS, and Linux.
 
-• Future Full-Stack Web Development - I enjoy building interactive and responsive web applications using HTML, CSS, and JavaScript. I have experience with back-end technologies such as PHP, Python, and MySQL. I love creating great user experiences and building web solutions to solve problems and I learning it now.
+In addition to AI, I have solid backend development experience using PHP and Python, with hands-on practice in RESTful APIs, database design (MySQL, PostgreSQL, MongoDB), and deploying applications to servers.
 
-•Artificial Intelligence - I am fascinated by the field of AI and machine learning. Future Machine Learning Engineer I'm eager to gain more hands-on experience applying AI to build intelligent systems and advance new discoveries I'm learning AI now in ITI institute.
-
-• Continuous Learning - I have a passion for lifelong learning and expanding my knowledge in different areas of technology. I am always looking to improve my skills through online courses, tutorials, and building side projects. Learning new programming languages and frameworks is an ongoing interest for me.
+Passionate about open-source technologies and Linux ecosystems, and continuously improving my engineering skills beyond AI to become a software engineer capable of building complete real-world products and scalable solutions end-to-end.
 
 Outside of my studies, I enjoy reading books. I love learning languages and experience different cultures and Gaming. I believe in continuous self-improvement and no limit to love learning new things.
 
