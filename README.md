@@ -22,34 +22,34 @@ Outside of my studies, I enjoy reading books. I love learning languages and expe
 
 ### Tools :
 
-🧠 AI & Machine Learning :
+🧠 ### AI & Machine Learning :
 Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, Feature Engineering, Model Evaluation, Hyperparameter Tuning
 
-🤖 Generative AI & NLP :
+🤖 ### Generative AI & NLP :
 Transformers, HuggingFace, LangChain, RAG, LLMs, spaCy, NLTK, Gensim, Prompt Engineering
 
-👁️ Computer Vision:
+👁️ ### Computer Vision:
 OpenCV, YOLO, U-Net, Image Segmentation, Object Detection
 
-🧩 Agentic & AI Systems:
+🧩 ### Agentic & AI Systems:
 CrewAI, LangGraph, LangChain, Multi-Agent Systems
 
-🌐 Backend & APIs:
+🌐 ### Backend & APIs:
 FastAPI, Flask, REST APIs, Authentication, MVC Architecture 
 
-💾 Databases & Big Data:
+💾 ### Databases & Big Data:
 MySQL, PostgreSQL, MongoDB, PySpark
 
 ⚙️ DevOps & Deployment:
 Docker, Git, GitHub, AWS, MLflow, Linux
 
-🔄 Automation:
+🔄 ### Automation:
 Selenium, UiPath, n8n, Scripting
 
-🖥️ Web:
+🖥️ ### Web:
 PHP, HTML, CSS, JavaScript, Bootstrap
 
-📊 Visualization:
+📊 ### Visualization:
 Matplotlib, Seaborn, Plotly, Streamlit, Dash, Power BI
 <br/>
  <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif">
