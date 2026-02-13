@@ -4,7 +4,7 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sarah-nabil-kamel/" target="_blank" rel="noopener noreferrer">Sarah Kamel</a> <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Hi.gif" height="30" />
 <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif"> 
 
-<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat%202.gif' width='35%' hight='100%'></a>
+<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat%202.gif' width='35%' hight='150%'></a>
 
 
 ### About Me
