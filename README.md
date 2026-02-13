@@ -4,8 +4,6 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sarah-nabil-kamel/" target="_blank" rel="noopener noreferrer">Sarah Kamel</a> <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Hi.gif" height="30" />
 <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif"> 
 
-<a href="https://github.com/SarahNabileKamel"><img align='right' src='https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/cat%202.gif' width='35%' hight='150%'></a>
-
 
 ### About Me
 Hi, I'm Sarah Kamel Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
