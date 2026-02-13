@@ -5,7 +5,7 @@
 <img src="https://github.com/SarahNabilKamel/SarahNabilKamel/blob/main/Line.gif"> 
 
 
-### About Me
+## About Me
 Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, and Automation.
 
 Experienced in building end-to-end AI-powered systems, including RAG pipelines, multi-agent architectures, recommendation systems, and computer vision models. 
@@ -20,7 +20,7 @@ Outside of my studies, I enjoy reading books. I love learning languages and expe
 
 ---
 
-### Tools :
+## Tools :
 
 ### 🧠 AI & Machine Learning :
 Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, Feature Engineering, Model Evaluation, Hyperparameter Tuning
