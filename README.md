@@ -6,11 +6,11 @@
 
 
 ### About Me
-Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
+Computer Science graduate (2024) from Luxor University and a graduate of the 9-Month AI & ML Professional Diploma at the Information Technology Institute (ITI). Junior AI Engineer with a strong foundation in Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, and Automation.
 
-Experienced in building end-to-end AI-powered systems, including RAG pipelines, multi-agent architectures, recommendation systems, and computer vision models. Skilled in Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Docker, AWS, and Linux.
+Experienced in building end-to-end AI-powered systems, including RAG pipelines, multi-agent architectures, recommendation systems, and computer vision models. 
 
-In addition to AI, I have solid backend development experience using PHP and Python, with hands-on practice in RESTful APIs, database design (MySQL, PostgreSQL, MongoDB), and deploying applications to servers.
+In addition to AI, I have solid backend development experience using PHP and Python, with hands-on practice in RESTful APIs, database design , and deploying applications to servers.
 
 Passionate about open-source technologies and Linux ecosystems, and continuously improving my engineering skills beyond AI to become a software engineer capable of building complete real-world products and scalable solutions end-to-end.
 
